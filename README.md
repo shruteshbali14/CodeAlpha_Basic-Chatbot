@@ -13,8 +13,7 @@ The Basic Chatbot is a simple rule-based chatbot developed using Python. It inte
 ## Technologies Used
 * Python
 * Visual Studio Code (VS Code)
-* GitHub
-                                                                    
+                                                                   
 ## Learning Outcomes
 - Python Programming Fundamentals
 - Conditional Statements (if-elif-else)
